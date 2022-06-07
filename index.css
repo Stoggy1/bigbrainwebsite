@@ -1,0 +1,45 @@
+.navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #EEEEEE;
+  width: fit-content;
+  margin-left: 35%;
+}
+
+
+#bigbrain {
+  float: left;
+  color: black;
+}
+
+.navbar span {
+  color: red;
+}
+
+.navbar li a{
+  display: block;
+  color: #000000;
+  font-weight:bold;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+#ul1 li{
+  display: inline;
+  float: left;
+  align-items: center;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#ul1 {
+  text-align: center;
+  position: fixed;
+}
+
+#content {
+  display: inline-block;
+  text-align: center;
+}
